@@ -1,4 +1,4 @@
-# Basic Spring Security In-Memory Authentication
+# Spring Security In-Memory Authentication
 
 This project demonstrates a basic in-memory user authentication system using Spring Security with Spring Boot. It includes simple user authentication with roles stored in memory.
 
