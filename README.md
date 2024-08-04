@@ -25,7 +25,7 @@ This project demonstrates a basic in-memory user authentication system using Spr
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/samuelmeto/basic-springsecurity-auth.git
+    git clone https://github.com/samuelmeto/springsecurity-inmemoryauth
     cd basic-springsecurity-auth
     ```
 
